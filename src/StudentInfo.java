@@ -11,6 +11,6 @@ public class StudentInfo {
         System.out.println("Student Information");
         System.out.println("Name: Joseline Robles");
         System.out.println("Major: Computer Science");
-        System.out.println("Hobbies: reading, drawing, playing guitar");
+        System.out.println("Hobbies: reading, drawing, playing guitar"); 
     }
 }
